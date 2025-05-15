@@ -1,13 +1,12 @@
-## 🧪 **Plano de Testes - OrangeHRM (Demo)**
+# 🧪 **Plano de Testes - OrangeHRM (Demo)**
 
-### 📌 1. **Identificação**
+## 📌 1. **Identificação**
 
 * **Nome do Projeto**: OrangeHRM - Sistema de Gestão de Recursos Humanos
 * **Versão Avaliada**: Demo pública
 * **Ambiente de Testes**: [https://opensource-demo.orangehrmlive.com](https://opensource-demo.orangehrmlive.com)
 * **Tipo de Teste**: Teste Funcional Manual
 * **Data do Documento**: 15/05/2025
-
 
 ---
 

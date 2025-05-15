@@ -8,7 +8,7 @@
 
 ---
 
-### 🐞 **Bug 01: Ícone de visualizar senha desaparece ao clicar fora do campo**
+## 🐞 **Bug 01: Ícone de visualizar senha desaparece ao clicar fora do campo**
 
 | **ID**     | **Descrição**                                                                                                                                             |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
